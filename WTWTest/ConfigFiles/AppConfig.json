@@ -1,0 +1,10 @@
+﻿{
+    "Browser":
+    {
+        "BrowserType" :"Chrome"
+    },
+    "Website":
+    {
+        "Url": "https://www.willistowerswatson.com"
+    }
+}
